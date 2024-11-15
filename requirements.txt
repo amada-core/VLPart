@@ -1,8 +1,6 @@
 opencv-python
 mss
 timm==0.5.4
-setuptools==60.0.0
-dataclasses
 imagesize
 ftfy
 regex
